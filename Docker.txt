@@ -1,4 +1,7 @@
-
+-------------------------Docker------------
 Docker is a software platform that allows us to to build, test and deploy the application quickly. 
 Docker packages whole of the software into standardized unit, named as a container.
 Using Docker we can easily deploy and scale our app.
+
+--------------------Docker Vs virtual Machine------------------------
+
